@@ -1,0 +1,40 @@
+.header__nav ul {
+    display: flex;
+}
+
+.header__nav-item {
+    margin-right: 60px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.header {
+    position: relative;
+    top: 38px;
+    display: flex;
+    /*to center vertically*/
+    align-items: center;
+    justify-content: space-between;
+    height: 45px;
+}
+
+.header__sign-in {
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 500;
+    border: 0px;
+    margin-right: 20px;
+}
+
+.header__sign-up {
+    color: #F53855;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 50px;
+    border: 1px solid #F53855;
+    width: 150px;
+    height: 45px;
+
+}

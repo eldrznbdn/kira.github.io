@@ -1,0 +1,18 @@
+.footer__section {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 64px;
+    align-items: center;
+}
+
+
+.footer__section p {
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}

@@ -1,0 +1,41 @@
+.hero__inner {
+    width: 555px;
+    
+}
+
+.first {
+    display: flex;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+
+.hero__title {
+    font-family: Rubik;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #0B132A;
+}
+
+.hero__paragraph {
+    font-family: Rubik;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4F5665;
+}
+
+.hero__btn {
+    width: 250px;
+    height: 60px;
+    left: 147px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #F53838;
+    border: 0;
+}
+

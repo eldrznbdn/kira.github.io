@@ -1,0 +1,47 @@
+.second {
+    display: flex;
+    padding-bottom: 200px;
+}
+
+.second__section-inner {
+    width: 427px;
+    margin-left: 120px;
+    
+}
+
+.second__section-title {
+    font-family: Rubik;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #0B132A;
+}
+
+.second__section-paragraph {
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4F5665;
+
+}
+
+.second__section-features {
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4F5665;
+    align-items: center;
+}
+
+.second__section-features li img {
+    float: left;
+}
+

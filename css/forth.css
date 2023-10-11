@@ -1,0 +1,35 @@
+.forth {
+    display: flex;
+    width: 1140px;
+    height: 233px;
+    align-items: center;
+    
+}
+
+.btn_forth {
+    width: 250px;
+    height: 60px;   
+    border-radius: 10px;
+    background-color: #F53838;
+    color: #fff;
+    border: 0;
+    position: relative;
+    left: 340px;
+
+}
+
+
+.text__content {
+    width: 410px;
+    height: 116px;
+    position: relative;
+    left: 70px;
+}
+
+.first__line {
+    font-family: Rubik;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 45px;
+    color: #0B132A;
+}

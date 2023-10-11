@@ -1,0 +1,17 @@
+.container {
+    margin: 0 auto;
+    max-width: 1140px;;
+}
+
+a {
+    text-decoration: none;
+    color: #4F5665;
+}
+
+li {
+    display: block;
+}
+
+* {
+    box-sizing: border-box;
+}
